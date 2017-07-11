@@ -1,0 +1,50 @@
+G:\Formacion\Formacion.Entidades\bin\Debug\Formacion.Entidades.dll
+G:\Formacion\Formacion.Entidades\bin\Debug\Formacion.Entidades.pdb
+G:\Formacion\Formacion.Entidades\bin\Debug\Formacion.Entidades.xml
+G:\Formacion\Formacion.Entidades\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Formacion\Formacion.Entidades\obj\x86\Debug\Formacion.Entidades.Resources.resources
+G:\Formacion\Formacion.Entidades\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Formacion\Formacion.Entidades\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Formacion\Formacion.Entidades\obj\x86\Debug\Formacion.Entidades.dll
+G:\Formacion\Formacion.Entidades\obj\x86\Debug\Formacion.Entidades.xml
+G:\Formacion\Formacion.Entidades\obj\x86\Debug\Formacion.Entidades.pdb
+K:\Formacion\Formacion.Entidades\bin\Debug\Formacion.Entidades.dll
+K:\Formacion\Formacion.Entidades\bin\Debug\Formacion.Entidades.pdb
+K:\Formacion\Formacion.Entidades\bin\Debug\Formacion.Entidades.xml
+K:\Formacion\Formacion.Entidades\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Formacion\Formacion.Entidades\obj\x86\Debug\Formacion.Entidades.Resources.resources
+K:\Formacion\Formacion.Entidades\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Formacion\Formacion.Entidades\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\Formacion\Formacion.Entidades\obj\x86\Debug\Formacion.Entidades.dll
+K:\Formacion\Formacion.Entidades\obj\x86\Debug\Formacion.Entidades.xml
+K:\Formacion\Formacion.Entidades\obj\x86\Debug\Formacion.Entidades.pdb
+C:\Formacion\Formacion.Entidades\bin\Formacion.Entidades.dll
+C:\Formacion\Formacion.Entidades\bin\Formacion.Entidades.pdb
+C:\Formacion\Formacion.Entidades\bin\Formacion.Entidades.xml
+C:\Formacion\Formacion\bin\Debug\Formacion.Entidades.dll
+C:\Formacion\Formacion\bin\Debug\Formacion.Entidades.pdb
+C:\Formacion\Formacion\bin\Debug\Formacion.Entidades.xml
+C:\Formacion\Formacion.Entidades\obj\x86\Debug\Formacion.Entidades.Resources.resources
+C:\Formacion\Formacion.Entidades\obj\x86\Debug\Formacion.Entidades.dll
+C:\Formacion\Formacion.Entidades\obj\x86\Debug\Formacion.Entidades.xml
+C:\Formacion\Formacion.Entidades\obj\x86\Debug\Formacion.Entidades.pdb
+D:\Formacion\Formacion\bin\Debug\Formacion.Entidades.dll
+D:\Formacion\Formacion\bin\Debug\Formacion.Entidades.pdb
+D:\Formacion\Formacion\bin\Debug\Formacion.Entidades.xml
+D:\Formacion\Formacion.Entidades\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Formacion\Formacion.Entidades\obj\x86\Debug\Formacion.Entidades.Resources.resources
+D:\Formacion\Formacion.Entidades\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Formacion\Formacion.Entidades\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Formacion\Formacion.Entidades\obj\x86\Debug\Formacion.Entidades.dll
+D:\Formacion\Formacion.Entidades\obj\x86\Debug\Formacion.Entidades.xml
+D:\Formacion\Formacion.Entidades\obj\x86\Debug\Formacion.Entidades.pdb
+C:\Users\Enrique\Downloads\UNIR\TFG\PFC\Otra Carpeta PFC\Formacion\Formacion\bin\Debug\Formacion.Entidades.dll
+C:\Users\Enrique\Downloads\UNIR\TFG\PFC\Otra Carpeta PFC\Formacion\Formacion\bin\Debug\Formacion.Entidades.pdb
+C:\Users\Enrique\Downloads\UNIR\TFG\PFC\Otra Carpeta PFC\Formacion\Formacion\bin\Debug\Formacion.Entidades.xml
+C:\Users\Enrique\Downloads\UNIR\TFG\PFC\Otra Carpeta PFC\Formacion\Formacion.Entidades\obj\x86\Debug\Formacion.Entidades.vbprojResolveAssemblyReference.cache
+C:\Users\Enrique\Downloads\UNIR\TFG\PFC\Otra Carpeta PFC\Formacion\Formacion.Entidades\obj\x86\Debug\Formacion.Entidades.Resources.resources
+C:\Users\Enrique\Downloads\UNIR\TFG\PFC\Otra Carpeta PFC\Formacion\Formacion.Entidades\obj\x86\Debug\Formacion.Entidades.vbproj.GenerateResource.Cache
+C:\Users\Enrique\Downloads\UNIR\TFG\PFC\Otra Carpeta PFC\Formacion\Formacion.Entidades\obj\x86\Debug\Formacion.Entidades.dll
+C:\Users\Enrique\Downloads\UNIR\TFG\PFC\Otra Carpeta PFC\Formacion\Formacion.Entidades\obj\x86\Debug\Formacion.Entidades.xml
+C:\Users\Enrique\Downloads\UNIR\TFG\PFC\Otra Carpeta PFC\Formacion\Formacion.Entidades\obj\x86\Debug\Formacion.Entidades.pdb
+C:\Formacion\Formacion.Entidades\obj\x86\Debug\Formacion.Entidades.vbproj.GenerateResource.Cache

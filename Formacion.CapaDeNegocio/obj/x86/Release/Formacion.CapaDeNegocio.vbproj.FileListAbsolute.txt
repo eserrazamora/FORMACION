@@ -1,0 +1,16 @@
+C:\Formacion\Formacion.CapaDeNegocio\bin\Release\Formacion.CapaDeNegocio.dll
+C:\Formacion\Formacion.CapaDeNegocio\bin\Release\Formacion.CapaDeNegocio.pdb
+C:\Formacion\Formacion.CapaDeNegocio\bin\Release\Formacion.CapaDeNegocio.xml
+C:\Formacion\Formacion.CapaDeNegocio\bin\Release\Formacion.AccesoDatos.dll
+C:\Formacion\Formacion.CapaDeNegocio\bin\Release\Formacion.Entidades.dll
+C:\Formacion\Formacion.CapaDeNegocio\bin\Release\MD5WPLIBRARY.dll
+C:\Formacion\Formacion.CapaDeNegocio\bin\Release\Formacion.AccesoDatos.pdb
+C:\Formacion\Formacion.CapaDeNegocio\bin\Release\Formacion.AccesoDatos.xml
+C:\Formacion\Formacion.CapaDeNegocio\bin\Release\Formacion.Entidades.pdb
+C:\Formacion\Formacion.CapaDeNegocio\bin\Release\Formacion.Entidades.xml
+C:\Formacion\Formacion.CapaDeNegocio\obj\x86\Release\Formacion.CapaDeNegocio.vbprojResolveAssemblyReference.cache
+C:\Formacion\Formacion.CapaDeNegocio\obj\x86\Release\Formacion.CapaDeNegocio.Resources.resources
+C:\Formacion\Formacion.CapaDeNegocio\obj\x86\Release\Formacion.CapaDeNegocio.vbproj.GenerateResource.Cache
+C:\Formacion\Formacion.CapaDeNegocio\obj\x86\Release\Formacion.CapaDeNegocio.dll
+C:\Formacion\Formacion.CapaDeNegocio\obj\x86\Release\Formacion.CapaDeNegocio.xml
+C:\Formacion\Formacion.CapaDeNegocio\obj\x86\Release\Formacion.CapaDeNegocio.pdb

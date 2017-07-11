@@ -1,0 +1,85 @@
+G:\Formacion\Formacion.CapaDeNegocio\bin\Debug\Formacion.CapaDeNegocio.dll
+G:\Formacion\Formacion.CapaDeNegocio\bin\Debug\Formacion.CapaDeNegocio.pdb
+G:\Formacion\Formacion.CapaDeNegocio\bin\Debug\Formacion.CapaDeNegocio.xml
+G:\Formacion\Formacion.CapaDeNegocio\bin\Debug\Formacion.AccesoDatos.dll
+G:\Formacion\Formacion.CapaDeNegocio\bin\Debug\Formacion.Entidades.dll
+G:\Formacion\Formacion.CapaDeNegocio\bin\Debug\Formacion.AccesoDatos.pdb
+G:\Formacion\Formacion.CapaDeNegocio\bin\Debug\Formacion.AccesoDatos.xml
+G:\Formacion\Formacion.CapaDeNegocio\bin\Debug\Formacion.Entidades.pdb
+G:\Formacion\Formacion.CapaDeNegocio\bin\Debug\Formacion.Entidades.xml
+G:\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\Formacion.CapaDeNegocio.Resources.resources
+G:\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\Formacion.CapaDeNegocio.dll
+G:\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\Formacion.CapaDeNegocio.xml
+G:\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\Formacion.CapaDeNegocio.pdb
+K:\Formacion\Formacion.CapaDeNegocio\bin\Debug\Formacion.CapaDeNegocio.dll
+K:\Formacion\Formacion.CapaDeNegocio\bin\Debug\Formacion.CapaDeNegocio.pdb
+K:\Formacion\Formacion.CapaDeNegocio\bin\Debug\Formacion.CapaDeNegocio.xml
+K:\Formacion\Formacion.CapaDeNegocio\bin\Debug\Formacion.AccesoDatos.dll
+K:\Formacion\Formacion.CapaDeNegocio\bin\Debug\Formacion.Entidades.dll
+K:\Formacion\Formacion.CapaDeNegocio\bin\Debug\Formacion.AccesoDatos.pdb
+K:\Formacion\Formacion.CapaDeNegocio\bin\Debug\Formacion.AccesoDatos.xml
+K:\Formacion\Formacion.CapaDeNegocio\bin\Debug\Formacion.Entidades.pdb
+K:\Formacion\Formacion.CapaDeNegocio\bin\Debug\Formacion.Entidades.xml
+K:\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\Formacion.CapaDeNegocio.Resources.resources
+K:\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\Formacion.CapaDeNegocio.dll
+K:\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\Formacion.CapaDeNegocio.xml
+K:\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\Formacion.CapaDeNegocio.pdb
+I:\Formacion\Formacion.CapaDeNegocio\bin\Debug\Formacion.CapaDeNegocio.dll
+I:\Formacion\Formacion.CapaDeNegocio\bin\Debug\Formacion.CapaDeNegocio.pdb
+I:\Formacion\Formacion.CapaDeNegocio\bin\Debug\Formacion.CapaDeNegocio.xml
+I:\Formacion\Formacion.CapaDeNegocio\bin\Debug\Formacion.AccesoDatos.dll
+I:\Formacion\Formacion.CapaDeNegocio\bin\Debug\Formacion.Entidades.dll
+I:\Formacion\Formacion.CapaDeNegocio\bin\Debug\Formacion.AccesoDatos.pdb
+I:\Formacion\Formacion.CapaDeNegocio\bin\Debug\Formacion.AccesoDatos.xml
+I:\Formacion\Formacion.CapaDeNegocio\bin\Debug\Formacion.Entidades.pdb
+I:\Formacion\Formacion.CapaDeNegocio\bin\Debug\Formacion.Entidades.xml
+I:\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\Formacion.CapaDeNegocio.Resources.resources
+I:\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\Formacion.CapaDeNegocio.dll
+I:\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\Formacion.CapaDeNegocio.xml
+I:\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\Formacion.CapaDeNegocio.pdb
+C:\Formacion\Formacion.CapaDeNegocio\bin\Formacion.CapaDeNegocio.dll
+C:\Formacion\Formacion.CapaDeNegocio\bin\Formacion.CapaDeNegocio.pdb
+C:\Formacion\Formacion.CapaDeNegocio\bin\Formacion.CapaDeNegocio.xml
+C:\Formacion\Formacion.CapaDeNegocio\bin\Formacion.AccesoDatos.dll
+C:\Formacion\Formacion.CapaDeNegocio\bin\Formacion.Entidades.dll
+C:\Formacion\Formacion.CapaDeNegocio\bin\Formacion.AccesoDatos.pdb
+C:\Formacion\Formacion.CapaDeNegocio\bin\Formacion.AccesoDatos.xml
+C:\Formacion\Formacion.CapaDeNegocio\bin\Formacion.Entidades.pdb
+C:\Formacion\Formacion.CapaDeNegocio\bin\Formacion.Entidades.xml
+C:\Formacion\Formacion\bin\Debug\Formacion.CapaDeNegocio.dll
+C:\Formacion\Formacion\bin\Debug\Formacion.CapaDeNegocio.pdb
+C:\Formacion\Formacion\bin\Debug\Formacion.CapaDeNegocio.xml
+C:\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\Formacion.CapaDeNegocio.Resources.resources
+C:\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\Formacion.CapaDeNegocio.dll
+C:\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\Formacion.CapaDeNegocio.xml
+C:\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\Formacion.CapaDeNegocio.pdb
+D:\Formacion\Formacion\bin\Debug\Formacion.CapaDeNegocio.dll
+D:\Formacion\Formacion\bin\Debug\Formacion.CapaDeNegocio.pdb
+D:\Formacion\Formacion\bin\Debug\Formacion.CapaDeNegocio.xml
+D:\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\Formacion.CapaDeNegocio.Resources.resources
+D:\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\Formacion.CapaDeNegocio.dll
+D:\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\Formacion.CapaDeNegocio.xml
+D:\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\Formacion.CapaDeNegocio.pdb
+C:\Users\Enrique\Downloads\UNIR\TFG\PFC\Otra Carpeta PFC\Formacion\Formacion\bin\Debug\Formacion.CapaDeNegocio.dll
+C:\Users\Enrique\Downloads\UNIR\TFG\PFC\Otra Carpeta PFC\Formacion\Formacion\bin\Debug\Formacion.CapaDeNegocio.pdb
+C:\Users\Enrique\Downloads\UNIR\TFG\PFC\Otra Carpeta PFC\Formacion\Formacion\bin\Debug\Formacion.CapaDeNegocio.xml
+C:\Users\Enrique\Downloads\UNIR\TFG\PFC\Otra Carpeta PFC\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\Formacion.CapaDeNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\Enrique\Downloads\UNIR\TFG\PFC\Otra Carpeta PFC\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\Formacion.CapaDeNegocio.Resources.resources
+C:\Users\Enrique\Downloads\UNIR\TFG\PFC\Otra Carpeta PFC\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\Formacion.CapaDeNegocio.vbproj.GenerateResource.Cache
+C:\Users\Enrique\Downloads\UNIR\TFG\PFC\Otra Carpeta PFC\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\Formacion.CapaDeNegocio.dll
+C:\Users\Enrique\Downloads\UNIR\TFG\PFC\Otra Carpeta PFC\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\Formacion.CapaDeNegocio.xml
+C:\Users\Enrique\Downloads\UNIR\TFG\PFC\Otra Carpeta PFC\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\Formacion.CapaDeNegocio.pdb
+C:\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\Formacion.CapaDeNegocio.vbprojResolveAssemblyReference.cache
+C:\Formacion\Formacion.CapaDeNegocio\obj\x86\Debug\Formacion.CapaDeNegocio.vbproj.GenerateResource.Cache
