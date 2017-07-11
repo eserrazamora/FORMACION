@@ -1,0 +1,537 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D9224052-1D99-471C-9426-AB97F41939B9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Formacion.My.MyApplication</StartupObject>
+    <RootNamespace>Formacion</RootNamespace>
+    <AssemblyName>Formacion</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Formacion.xml</DocumentationFile>
+    <NoWarn>
+    </NoWarn>
+    <RunCodeAnalysis>true</RunCodeAnalysis>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Formacion.xml</DocumentationFile>
+    <NoWarn>
+    </NoWarn>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>On</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Imagenes\IconoLibro.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Accessibility">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Data.Services.Client" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAsistenciasAlumno.Designer.vb">
+      <DependentUpon>frmAsistenciasAlumno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAsistenciasAlumno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsultaCursos.Designer.vb">
+      <DependentUpon>frmConsultaCursos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsultaCursos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsultaProfesores.Designer.vb">
+      <DependentUpon>frmConsultaProfesores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsultaProfesores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsultaAlumnos.Designer.vb">
+      <DependentUpon>frmConsultaAlumnos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsultaAlumnos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCrudAulas.Designer.vb">
+      <DependentUpon>frmCrudAulas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCrudAulas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCrudCalificaciones.Designer.vb">
+      <DependentUpon>frmCrudCalificaciones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCrudCalificaciones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCrudCodigosPostales.Designer.vb">
+      <DependentUpon>frmCrudCodigosPostales.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCrudCodigosPostales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCrudCursos.Designer.vb">
+      <DependentUpon>frmCrudCursos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCrudCursos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCrudLogin.Designer.vb">
+      <DependentUpon>frmCrudLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCrudLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCrudPersonas.Designer.vb">
+      <DependentUpon>frmCrudPersonas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCrudPersonas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCrudTiposUsuarios.Designer.vb">
+      <DependentUpon>frmCrudTiposUsuarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCrudTiposUsuarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCrudTiposAulas.Designer.vb">
+      <DependentUpon>frmCrudTiposAulas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCrudTiposAulas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCrudTiposCursos.Designer.vb">
+      <DependentUpon>frmCrudTiposCursos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCrudTiposCursos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInformes.Designer.vb">
+      <DependentUpon>frmInformes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmInformes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMatriculacion.Designer.vb">
+      <DependentUpon>frmMatriculacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMatriculacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenuPrincipal.Designer.vb">
+      <DependentUpon>frmMenuPrincipal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenuPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.vb">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrevisualizacionInforme.Designer.vb">
+      <DependentUpon>frmPrevisualizacionInforme.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrevisualizacionInforme.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSeleccionCurso.Designer.vb">
+      <DependentUpon>frmSeleccionCurso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSeleccionCurso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSeleccionPersonasCurso.Designer.vb">
+      <DependentUpon>frmSeleccionPersonasCurso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSeleccionPersonasCurso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funciones.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Settings.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmAsistenciasAlumno.resx">
+      <DependentUpon>frmAsistenciasAlumno.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsultaCursos.resx">
+      <DependentUpon>frmConsultaCursos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsultaProfesores.resx">
+      <DependentUpon>frmConsultaProfesores.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsultaAlumnos.resx">
+      <DependentUpon>frmConsultaAlumnos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCrudAulas.resx">
+      <DependentUpon>frmCrudAulas.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCrudCalificaciones.resx">
+      <DependentUpon>frmCrudCalificaciones.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCrudCodigosPostales.resx">
+      <DependentUpon>frmCrudCodigosPostales.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCrudCursos.resx">
+      <DependentUpon>frmCrudCursos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCrudLogin.resx">
+      <DependentUpon>frmCrudLogin.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCrudPersonas.resx">
+      <DependentUpon>frmCrudPersonas.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCrudTiposAulas.resx">
+      <DependentUpon>frmCrudTiposAulas.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCrudTiposCursos.resx">
+      <DependentUpon>frmCrudTiposCursos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCrudTiposUsuarios.resx">
+      <DependentUpon>frmCrudTiposUsuarios.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInformes.resx">
+      <DependentUpon>frmInformes.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMatriculacion.resx">
+      <DependentUpon>frmMatriculacion.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenuPrincipal.resx">
+      <DependentUpon>frmMenuPrincipal.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrevisualizacionInforme.resx">
+      <DependentUpon>frmPrevisualizacionInforme.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSeleccionCurso.resx">
+      <DependentUpon>frmSeleccionCurso.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSeleccionPersonasCurso.resx">
+      <DependentUpon>frmSeleccionPersonasCurso.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Formacion.CapaDeNegocio\Formacion.CapaDeNegocio.vbproj">
+      <Project>{D1385BDB-0B06-4ACD-94B2-B3A8F6DFC3FC}</Project>
+      <Name>Formacion.CapaDeNegocio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Formacion.Entidades\Formacion.Entidades.vbproj">
+      <Project>{926A0914-F7E1-4C61-89FE-CF646A52C450}</Project>
+      <Name>Formacion.Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Formacion.Informes\Formacion.Informes.vbproj">
+      <Project>{502A6EB7-DEBB-415C-8501-EF2FD0343743}</Project>
+      <Name>Formacion.Informes</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\calificacionesAMARILLO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Actualizar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Borrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Cancelar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Editar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Guardar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Nuevo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Buscar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\BuscarIcono.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\IconoLibro.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actualizar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Borrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Buscar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BuscarIcono.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cancelar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Editar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Guardar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconoLibro.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nuevo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Asistencia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\informe.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Consultas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\cursos.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Consulta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Matricularse.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Filtrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LimpiarCajas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Aula.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Profesor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Alumnos.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="ADOX">
+      <Guid>{00000600-0000-0010-8000-00AA006D2EA4}</Guid>
+      <VersionMajor>6</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="CrystalReportsLocalConnectionMgrLib">
+      <Guid>{EC39F6C4-A9F2-4341-806B-1529E049A945}</Guid>
+      <VersionMajor>13</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="SQLDISTXLib">
+      <Guid>{4AC4D38E-B5C0-4224-B98D-946D58684F39}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="SQLMERGXLib">
+      <Guid>{71AE44E8-9D08-4A85-B8E0-716F92FE5548}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
