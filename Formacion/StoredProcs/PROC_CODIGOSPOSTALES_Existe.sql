@@ -1,0 +1,7 @@
+CREATE PROCEDURE PROC_CODIGOSPOSTALES_Existe
+   @CodigoPostal varchar(5)
+AS
+	SELECT COUNT(*)
+	FROM CODIGOSPOSTALES 
+	WHERE CodigoPostal=@CodigoPostal
+GO

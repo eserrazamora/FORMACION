@@ -1,0 +1,1 @@
+SELECT * FROM information_schema.routines where SPECIFIC_NAME LIKE 'PROC%' ORDER BY SPECIFIC_NAME
