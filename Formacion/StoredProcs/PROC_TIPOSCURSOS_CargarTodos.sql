@@ -1,0 +1,8 @@
+CREATE PROCEDURE PROC_TIPOSCURSOS_CargarTodos 
+  AS 
+    
+  SELECT Codigo,Tipo 
+  FROM TIPOSCURSOS 
+  ORDER BY Codigo
+GO
+

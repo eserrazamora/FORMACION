@@ -1,0 +1,6 @@
+CREATE PROCEDURE PROC_TIPOSCURSOS_BorrarTipoCurso
+	@Codigo varchar(4)
+AS
+	DELETE FROM TIPOSCURSOS
+	WHERE Codigo=@Codigo
+GO
