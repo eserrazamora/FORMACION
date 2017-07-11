@@ -1,0 +1,16 @@
+C:\Users\Enrique\Downloads\UNIR\TFG\PFC\Otra Carpeta PFC\Formacion\Formacion.AccesoDatos\obj\x86\Release\Formacion.AccesoDatos.vbprojResolveAssemblyReference.cache
+C:\Users\Enrique\Downloads\UNIR\TFG\PFC\Otra Carpeta PFC\Formacion\Formacion.AccesoDatos\obj\x86\Release\Formacion.AccesoDatos.Resources.resources
+C:\Users\Enrique\Downloads\UNIR\TFG\PFC\Otra Carpeta PFC\Formacion\Formacion.AccesoDatos\obj\x86\Release\Formacion.AccesoDatos.vbproj.GenerateResource.Cache
+C:\Formacion\Formacion.AccesoDatos\bin\Release\Formacion.AccesoDatos.dll
+C:\Formacion\Formacion.AccesoDatos\bin\Release\Formacion.AccesoDatos.pdb
+C:\Formacion\Formacion.AccesoDatos\bin\Release\Formacion.AccesoDatos.xml
+C:\Formacion\Formacion.AccesoDatos\bin\Release\Formacion.Entidades.dll
+C:\Formacion\Formacion.AccesoDatos\bin\Release\MD5WPLIBRARY.dll
+C:\Formacion\Formacion.AccesoDatos\bin\Release\Formacion.Entidades.pdb
+C:\Formacion\Formacion.AccesoDatos\bin\Release\Formacion.Entidades.xml
+C:\Formacion\Formacion.AccesoDatos\obj\x86\Release\Formacion.AccesoDatos.vbprojResolveAssemblyReference.cache
+C:\Formacion\Formacion.AccesoDatos\obj\x86\Release\Formacion.AccesoDatos.Resources.resources
+C:\Formacion\Formacion.AccesoDatos\obj\x86\Release\Formacion.AccesoDatos.vbproj.GenerateResource.Cache
+C:\Formacion\Formacion.AccesoDatos\obj\x86\Release\Formacion.AccesoDatos.dll
+C:\Formacion\Formacion.AccesoDatos\obj\x86\Release\Formacion.AccesoDatos.xml
+C:\Formacion\Formacion.AccesoDatos\obj\x86\Release\Formacion.AccesoDatos.pdb

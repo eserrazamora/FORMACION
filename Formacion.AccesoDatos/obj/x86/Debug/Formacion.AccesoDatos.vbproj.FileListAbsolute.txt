@@ -1,0 +1,73 @@
+G:\Formacion\Formacion.AccesoDatos\bin\Debug\Formacion.AccesoDatos.dll
+G:\Formacion\Formacion.AccesoDatos\bin\Debug\Formacion.AccesoDatos.pdb
+G:\Formacion\Formacion.AccesoDatos\bin\Debug\Formacion.AccesoDatos.xml
+G:\Formacion\Formacion.AccesoDatos\bin\Debug\Formacion.Entidades.dll
+G:\Formacion\Formacion.AccesoDatos\bin\Debug\Formacion.Entidades.pdb
+G:\Formacion\Formacion.AccesoDatos\bin\Debug\Formacion.Entidades.xml
+G:\Formacion\Formacion.AccesoDatos\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Formacion\Formacion.AccesoDatos\obj\x86\Debug\Formacion.AccesoDatos.Resources.resources
+G:\Formacion\Formacion.AccesoDatos\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Formacion\Formacion.AccesoDatos\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Formacion\Formacion.AccesoDatos\obj\x86\Debug\Formacion.AccesoDatos.dll
+G:\Formacion\Formacion.AccesoDatos\obj\x86\Debug\Formacion.AccesoDatos.xml
+G:\Formacion\Formacion.AccesoDatos\obj\x86\Debug\Formacion.AccesoDatos.pdb
+K:\Formacion\Formacion.AccesoDatos\bin\Debug\Formacion.AccesoDatos.dll
+K:\Formacion\Formacion.AccesoDatos\bin\Debug\Formacion.AccesoDatos.pdb
+K:\Formacion\Formacion.AccesoDatos\bin\Debug\Formacion.AccesoDatos.xml
+K:\Formacion\Formacion.AccesoDatos\bin\Debug\Formacion.Entidades.dll
+K:\Formacion\Formacion.AccesoDatos\bin\Debug\Formacion.Entidades.pdb
+K:\Formacion\Formacion.AccesoDatos\bin\Debug\Formacion.Entidades.xml
+K:\Formacion\Formacion.AccesoDatos\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Formacion\Formacion.AccesoDatos\obj\x86\Debug\Formacion.AccesoDatos.Resources.resources
+K:\Formacion\Formacion.AccesoDatos\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Formacion\Formacion.AccesoDatos\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\Formacion\Formacion.AccesoDatos\obj\x86\Debug\Formacion.AccesoDatos.dll
+K:\Formacion\Formacion.AccesoDatos\obj\x86\Debug\Formacion.AccesoDatos.xml
+K:\Formacion\Formacion.AccesoDatos\obj\x86\Debug\Formacion.AccesoDatos.pdb
+I:\Formacion\Formacion.AccesoDatos\bin\Debug\Formacion.AccesoDatos.dll
+I:\Formacion\Formacion.AccesoDatos\bin\Debug\Formacion.AccesoDatos.pdb
+I:\Formacion\Formacion.AccesoDatos\bin\Debug\Formacion.AccesoDatos.xml
+I:\Formacion\Formacion.AccesoDatos\bin\Debug\Formacion.Entidades.dll
+I:\Formacion\Formacion.AccesoDatos\bin\Debug\Formacion.Entidades.pdb
+I:\Formacion\Formacion.AccesoDatos\bin\Debug\Formacion.Entidades.xml
+I:\Formacion\Formacion.AccesoDatos\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Formacion\Formacion.AccesoDatos\obj\x86\Debug\Formacion.AccesoDatos.Resources.resources
+I:\Formacion\Formacion.AccesoDatos\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Formacion\Formacion.AccesoDatos\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Formacion\Formacion.AccesoDatos\obj\x86\Debug\Formacion.AccesoDatos.dll
+I:\Formacion\Formacion.AccesoDatos\obj\x86\Debug\Formacion.AccesoDatos.xml
+I:\Formacion\Formacion.AccesoDatos\obj\x86\Debug\Formacion.AccesoDatos.pdb
+C:\Formacion\Formacion.AccesoDatos\bin\Formacion.AccesoDatos.dll
+C:\Formacion\Formacion.AccesoDatos\bin\Formacion.AccesoDatos.pdb
+C:\Formacion\Formacion.AccesoDatos\bin\Formacion.AccesoDatos.xml
+C:\Formacion\Formacion.AccesoDatos\bin\Formacion.Entidades.dll
+C:\Formacion\Formacion.AccesoDatos\bin\Formacion.Entidades.pdb
+C:\Formacion\Formacion.AccesoDatos\bin\Formacion.Entidades.xml
+C:\Formacion\Formacion\bin\Debug\Formacion.AccesoDatos.dll
+C:\Formacion\Formacion\bin\Debug\Formacion.AccesoDatos.pdb
+C:\Formacion\Formacion\bin\Debug\Formacion.AccesoDatos.xml
+C:\Formacion\Formacion.AccesoDatos\obj\x86\Debug\Formacion.AccesoDatos.Resources.resources
+C:\Formacion\Formacion.AccesoDatos\obj\x86\Debug\Formacion.AccesoDatos.dll
+C:\Formacion\Formacion.AccesoDatos\obj\x86\Debug\Formacion.AccesoDatos.xml
+C:\Formacion\Formacion.AccesoDatos\obj\x86\Debug\Formacion.AccesoDatos.pdb
+D:\Formacion\Formacion\bin\Debug\Formacion.AccesoDatos.dll
+D:\Formacion\Formacion\bin\Debug\Formacion.AccesoDatos.pdb
+D:\Formacion\Formacion\bin\Debug\Formacion.AccesoDatos.xml
+D:\Formacion\Formacion.AccesoDatos\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Formacion\Formacion.AccesoDatos\obj\x86\Debug\Formacion.AccesoDatos.Resources.resources
+D:\Formacion\Formacion.AccesoDatos\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Formacion\Formacion.AccesoDatos\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Formacion\Formacion.AccesoDatos\obj\x86\Debug\Formacion.AccesoDatos.dll
+D:\Formacion\Formacion.AccesoDatos\obj\x86\Debug\Formacion.AccesoDatos.xml
+D:\Formacion\Formacion.AccesoDatos\obj\x86\Debug\Formacion.AccesoDatos.pdb
+C:\Users\Enrique\Downloads\UNIR\TFG\PFC\Otra Carpeta PFC\Formacion\Formacion\bin\Debug\Formacion.AccesoDatos.dll
+C:\Users\Enrique\Downloads\UNIR\TFG\PFC\Otra Carpeta PFC\Formacion\Formacion\bin\Debug\Formacion.AccesoDatos.pdb
+C:\Users\Enrique\Downloads\UNIR\TFG\PFC\Otra Carpeta PFC\Formacion\Formacion\bin\Debug\Formacion.AccesoDatos.xml
+C:\Users\Enrique\Downloads\UNIR\TFG\PFC\Otra Carpeta PFC\Formacion\Formacion.AccesoDatos\obj\x86\Debug\Formacion.AccesoDatos.vbprojResolveAssemblyReference.cache
+C:\Users\Enrique\Downloads\UNIR\TFG\PFC\Otra Carpeta PFC\Formacion\Formacion.AccesoDatos\obj\x86\Debug\Formacion.AccesoDatos.Resources.resources
+C:\Users\Enrique\Downloads\UNIR\TFG\PFC\Otra Carpeta PFC\Formacion\Formacion.AccesoDatos\obj\x86\Debug\Formacion.AccesoDatos.vbproj.GenerateResource.Cache
+C:\Users\Enrique\Downloads\UNIR\TFG\PFC\Otra Carpeta PFC\Formacion\Formacion.AccesoDatos\obj\x86\Debug\Formacion.AccesoDatos.dll
+C:\Users\Enrique\Downloads\UNIR\TFG\PFC\Otra Carpeta PFC\Formacion\Formacion.AccesoDatos\obj\x86\Debug\Formacion.AccesoDatos.xml
+C:\Users\Enrique\Downloads\UNIR\TFG\PFC\Otra Carpeta PFC\Formacion\Formacion.AccesoDatos\obj\x86\Debug\Formacion.AccesoDatos.pdb
+C:\Formacion\Formacion.AccesoDatos\obj\x86\Debug\Formacion.AccesoDatos.vbprojResolveAssemblyReference.cache
+C:\Formacion\Formacion.AccesoDatos\obj\x86\Debug\Formacion.AccesoDatos.vbproj.GenerateResource.Cache
