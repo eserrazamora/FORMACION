@@ -1,3 +1,5 @@
   # FORMACION
 TFG Formacion
-contraseña inicial ADMiN ADMIN
+contraseña inicial del formulario 
+usuario admin
+contraseña admin
